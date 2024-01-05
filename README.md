@@ -1,2 +1,2 @@
-# C-internship
-first_repository
+# C Plus Plus internship codsoft
+
